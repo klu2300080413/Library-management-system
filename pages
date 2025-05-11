@@ -1,0 +1,13 @@
+<script>start("/Users/gautamchauhan/Desktop/lib copy/lms/src/pages/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Books.jsx","Books.jsx",0,6023,"5.9 kB",1746867622,"10/05/2025, 14:30:22");</script>
+<script>addRow("Categories.jsx","Categories.jsx",0,5488,"5.4 kB",1746825559,"10/05/2025, 02:49:19");</script>
+<script>addRow("Fines.jsx","Fines.jsx",0,5175,"5.1 kB",1746825629,"10/05/2025, 02:50:29");</script>
+<script>addRow("ForgotPassword.jsx","ForgotPassword.jsx",0,3178,"3.1 kB",1746825962,"10/05/2025, 02:56:02");</script>
+<script>addRow("Home.jsx","Home.jsx",0,4984,"4.9 kB",1746825681,"10/05/2025, 02:51:21");</script>
+<script>addRow("IssueBooks.jsx","IssueBooks.jsx",0,5749,"5.6 kB",1746825775,"10/05/2025, 02:52:55");</script>
+<script>addRow("Login.jsx","Login.jsx",0,4115,"4.0 kB",1746826304,"10/05/2025, 03:01:44");</script>
+<script>addRow("ResetPassword.jsx","ResetPassword.jsx",0,4528,"4.4 kB",1746825962,"10/05/2025, 02:56:02");</script>
+<script>addRow("Returns.jsx","Returns.jsx",0,5537,"5.4 kB",1746826310,"10/05/2025, 03:01:50");</script>
+<script>addRow("Signup.jsx","Signup.jsx",0,6323,"6.2 kB",1746826061,"10/05/2025, 02:57:41");</script>
+<script>addRow("Users.jsx","Users.jsx",0,9480,"9.3 kB",1746826398,"10/05/2025, 03:03:18");</script>
